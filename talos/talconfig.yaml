@@ -30,10 +30,10 @@ nodes:
           hardwareAddr: "bc:24:11:dd:a8:42"
         dhcp: false
         addresses:
-          - "192.168.0.201/24"
+          - "192.168.0.201/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
@@ -49,10 +49,10 @@ nodes:
           hardwareAddr: "bc:24:11:25:4c:96"
         dhcp: false
         addresses:
-          - "192.168.0.202/24"
+          - "192.168.0.202/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
@@ -68,10 +68,10 @@ nodes:
           hardwareAddr: "bc:24:11:11:9c:5e"
         dhcp: false
         addresses:
-          - "192.168.0.203/24"
+          - "192.168.0.203/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
@@ -87,10 +87,10 @@ nodes:
           hardwareAddr: "bc:24:11:b1:59:c9"
         dhcp: false
         addresses:
-          - "192.168.0.204/24"
+          - "192.168.0.204/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
@@ -106,10 +106,10 @@ nodes:
           hardwareAddr: "bc:24:11:87:9c:34"
         dhcp: false
         addresses:
-          - "192.168.0.205/24"
+          - "192.168.0.205/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
@@ -125,10 +125,10 @@ nodes:
           hardwareAddr: "bc:24:11:d1:0d:75"
         dhcp: false
         addresses:
-          - "192.168.0.206/24"
+          - "192.168.0.206/23"
         routes:
           - network: "0.0.0.0/0"
-            gateway: "192.168.0.1"
+            gateway: "192.168.1.3"
         mtu: 1500
         vip:
           ip: "192.168.0.207"
